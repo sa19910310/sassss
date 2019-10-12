@@ -9,5 +9,10 @@
             "email": "990641141@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sushao\\": "src/"
+        }
+    }
 }
