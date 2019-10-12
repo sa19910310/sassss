@@ -1,0 +1,13 @@
+{
+    "name": "sa19910310/sushao",
+    "description": "第一次测试",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sushaochuan",
+            "email": "990641141@qq.com"
+        }
+    ],
+    "require": {}
+}
